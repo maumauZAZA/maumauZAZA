@@ -1,7 +1,7 @@
 ### Hello, im maumauZAZA!!!
 
 - I'm currentlich working on PHP projects!
-- I#m looking to make an online Forum and to earn money with it.
+- Im looking to make an online Forum and to earn money with it.
 
 <!--
 **maumauZAZA/maumauZAZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
