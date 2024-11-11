@@ -1,4 +1,5 @@
-![2024-11-11-Welcome-to-MAUMAUs-Github(1)](https://github.com/user-attachments/assets/09d002bf-15c6-469d-9dbb-c39274e08433)
+![2024-11-11-Welcome-to-MAUMAUs-Github(1)(1)](https://github.com/user-attachments/assets/ec99773b-24f2-45b7-9f8d-fc3dc8f89819)
+
 - I'm currentlich working on PHP projects!
 - Im interrested in Linux and web based programming. Also i like
   to design many things in photoshop or with css.
