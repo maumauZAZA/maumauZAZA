@@ -3,7 +3,7 @@
 - I'm currentlich working on PHP projects!
 - Im interrested in Linux and web based programming. Also i like
   to design many things in photoshop or with css.
-- I'm looking to make an online Forum and to earn money with it.
+
 
 <!--
 **maumauZAZA/maumauZAZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
